@@ -1,4 +1,4 @@
-## Oiii!! Me chamo Luis Felipe, criador de conteúdo de programação e tecnologia!
+## Oiii!! Me chamo Luis Felipe, sou criador de conteúdo de programação e tecnologia!
 
 - 🔭 Hoje trabalho com Front-End
 - 🌱 Estudando JavaScript
