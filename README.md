@@ -1,6 +1,6 @@
-## Oiii eu sou a Luis Felipe, criador de conteúdo de programação e tecnologia!
+## Oiii!! Me chamo Luis Felipe, criador de conteúdo de programação e tecnologia!
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho com Front-End
 - 🌱 Estudando JavaScript
 - 😄 Pronouns: ele/dele
 
